@@ -115,7 +115,7 @@ public class Task_6 {
             System.out.println("Не возможно посчитать среднее арифмитическое");
         }
 
-        // Задание 9
+        // Задание 10
         int maxNumber2 = 0;
 
         for (int i=1; i<mass.length; i++) {
