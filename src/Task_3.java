@@ -17,7 +17,7 @@ public class Task_3 {
 
         for (int i=1; i<mass.length; i++) {
 
-            if (mass[i-1] > mass[i]) {
+            if (mass[i-1] >= mass[i]) {
                 res = false;
                 break;
             }
